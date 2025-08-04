@@ -1,6 +1,6 @@
 # 📊 ClientConnect CRM
 
-**ClientConnect CRM** is a role-based customer relationship management system built with **Laravel 11**, tailored for small to medium businesses. It helps organizations manage customer data, track interactions, handle support tickets, and generate reports with ease.
+**ClientConnect CRM** is a role-based customer relationship management system built with **Laravel 11**. It helps organizations manage customer data, track interactions, handle support tickets, and generate reports with ease.
 
 ---
 
