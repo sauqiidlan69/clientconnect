@@ -77,31 +77,6 @@ php artisan serve
 
 ---
 
-## 📂 Folder Structure
-
-```bash
-app/
-├── Http/
-│   ├── Controllers/
-│   ├── Middleware/
-│   └── Requests/
-├── Models/
-├── Providers/
-resources/
-├── views/
-│   ├── auth/
-│   ├── dashboard/
-│   ├── customers/
-│   ├── tickets/
-│   ├── reports/
-routes/
-├── web.php
-├── admin.php
-├── support.php
-├── customer.php
-```
----
-
 ## 👤 User Roles
 | Role     | Capabilities                                               |
 | -------- | ---------------------------------------------------------- |
