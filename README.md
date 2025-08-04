@@ -64,7 +64,7 @@ composer install
 
 ### Copy and edit .env
 cp .env.example .env
-# Configure your DB credentials inside .env
+#### Configure your DB credentials inside .env
 
 ### Generate app key
 php artisan key:generate
